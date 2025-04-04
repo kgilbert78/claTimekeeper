@@ -75,7 +75,7 @@ void MainWindow::setupUI()
     resize(800, 600);
 
     // Set application icon
-    QIcon appIcon(":/resources/claLogo.png");
+    QIcon appIcon(":/resources/claLogoIcon.png");
     setWindowIcon(appIcon);
     QApplication::setWindowIcon(appIcon);
 }

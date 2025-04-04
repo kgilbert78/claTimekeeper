@@ -2,5 +2,6 @@
 <RCC>
     <qresource prefix="/">
         <file>resources/claLogo.png</file>
+        <file>resources/claLogoIcon.png</file>
     </qresource>
 </RCC> 
